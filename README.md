@@ -29,6 +29,9 @@ my-todo-app/
 ```      
 
 ## Getting Started
+Use a Gemini API key
+
+export GEMINI_API_KEY=<Api_key>
 
 Start the development server:
 
